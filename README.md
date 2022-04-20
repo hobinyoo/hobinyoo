@@ -11,7 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobinyoo&layout=compact)](https://github.com/hobinyoo/github-readme-stats)
 
-
+### 🤔 Etc
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobinyoo&show_icons=true&theme=default)
+</div>
 
 <!--
 **hobinyoo/hobinyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
