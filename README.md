@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobinskyyy@naver.com&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobinyoo&layout=compact)](https://github.com/hobinyoo/github-readme-stats)
 
 
 
